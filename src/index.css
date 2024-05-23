@@ -2,7 +2,7 @@
   font-family: 'space';
   font-style: normal;
 font-weight: 400;
-  src: url(C:\Users\ЕВГЕНИЙ\Desktop\WebReact\shop\src/SpaceMono-Regular.ttf);
+  src: url(\src/SpaceMono-Regular.ttf);
 }
 *{
   margin: 0;
@@ -10,7 +10,7 @@ font-weight: 400;
 }
 
 body{
-  background-image: url(C:\Users\ЕВГЕНИЙ\Desktop\WebReact\shop\src/background_img.png);
+  background-image: url(/src/background_img.png);
   color: aliceblue;
   size: 100%;
   background-size: cover;
@@ -217,7 +217,7 @@ li:nth-child(4):hover ~ #indicator {
   font-family: 'space';
   font-style: normal;
 font-weight: 400;
-  src: url(C:\Users\ЕВГЕНИЙ\Desktop\WebReact\shop\src/SpaceMono-Regular.ttf);
+  src: url(/src/SpaceMono-Regular.ttf);
 }
 
 .cyber__text{
@@ -240,7 +240,7 @@ margin:auto;
   margin-left: 300px;
   margin-top: -600px;
  
-background-image: url(C:\Users\ЕВГЕНИЙ\Desktop\WebReact\shop\src/main.png);
+background-image: url(/src/main.png);
 width: 852.64px;
 height: 875.98px;
 
